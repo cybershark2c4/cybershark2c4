@@ -19,12 +19,25 @@
 *Choose a frequency to synchronize with the source*
 
 <p align="center">
-<a href="https://www.tiktok.com/@cybershark2c4"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UClPpAnbUKRmWJ3khMqAMcRQ"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.instagram.com/cybershark2c4"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/+sqmRygOflQ5lZDFk"><img src="https://img.shields.io/badge/TELEGRAM-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/17VR3eERs1/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://bio.link/cybersha"><img src="https://img.shields.io/badge/BIO.LINK-00BFFF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@cybershark2c4" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UClPpAnbUKRmWJ3khMqAMcRQ" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/cybershark2c4" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/+sqmRygOflQ5lZDFk" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/17VR3eERs1/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://bio.link/cybersha" target="_blank"><img src="https://img.shields.io/badge/BIO.LINK-00BFFF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+---
+
+### ✉️ SECURE CONTACT PROTOCOL
+*Click the badge below to open Gmail directly*
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cybershark2c4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/DIRECT%20GMAIL-cybershark2c4@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CyberShark" />
+  </a>
+  <br />
+  <code><b>STATUS:</b> ENCRYPTED CHANNEL READY</code>
 </p>
 
 ---
@@ -64,21 +77,6 @@
 ### 🏆 SYSTEM ACHIEVEMENTS
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cybershark2c4&theme=tokyonight&no-bg=true&column=4" />
-</p>
-
----
-
-### ✉️ SECURE COMMUNICATION PROTOCOL
-*Encryption enabled. Click the node or the text link to send a transmission.*
-
-<p align="center">
-  <a href="mailto:cybershark2c4@gmail.com">
-    <img src="https://img.shields.io/badge/SEND%20TRANSMISSION-cybershark2c4@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CyberShark" />
-  </a>
-  <br />
-  <code><b>STATUS:</b> ENCRYPTED CHANNEL READY</code>
-  <br />
-  <b><a href="mailto:cybershark2c4@gmail.com">CLICK HERE TO START CONVERSATION</a></b>
 </p>
 
 ---
