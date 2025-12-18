@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/DIRECT%20GMAIL-cybershark2c4@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CyberShark" />
   </a>
   <br />
-  <code><b>SYSTEM STATUS:</b> <span style="color: #FF0000;">ENCRYPTED CHANNEL OPEN</span></code>
+<!--  <code><b>SYSTEM STATUS:</b> <span style="color: #FF0000;">ENCRYPTED CHANNEL OPEN</span></code>--.
 </p>
 
 ---
