@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=cybershark2c4&label=SYSTEM%20ACCESSES&color=FF0000&style=flat-square" alt="Breach Counter" />
 </p>
 
-# 🔱 THE DEEP SEA ARCHITECT 🔱
+## 🦈 THE DEEP SEA ARCHITECT 🦈
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Accessing+Encrypted+Vaults...;Bypassing+Legacy+Firewalls...;Mastering+Kali+Linux+Tools...;Developing+Offensive+Security+Scripts...;Welcome+to+the+CyberShark+Ecosystem." />
 </p>
