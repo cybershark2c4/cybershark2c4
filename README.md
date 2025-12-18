@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/DIRECT%20GMAIL-cybershark2c4@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CyberShark" />
   </a>
   <br />
-<!--  <code><b>STATUS:</b> ENCRYPTED CHANNEL READY</code>
+<!--  <code><b>STATUS:</b> ENCRYPTED CHANNEL READY</code> -->
 </p>
 
 ---
