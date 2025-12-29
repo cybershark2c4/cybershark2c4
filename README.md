@@ -25,7 +25,11 @@
 <a href="https://t.me/+sqmRygOflQ5lZDFk" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.facebook.com/share/17VR3eERs1/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://bio.link/cybersha" target="_blank"><img src="https://img.shields.io/badge/BIO.LINK-00BFFF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://www.snapchat.com/add/cybershark2c4?share_id=8cIUK_FpuSw&locale=ar-JO-u-nu-arab" target="_blank"><img src="https://img.shields.io/badge/SNAPCHAT-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" /></a>
+<a href="https://discord.gg/fYxykNmv" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cyber-shark-82677b3a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHnM3DaA3THuHUUXdQiHNBQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FF0000&height=30&section=header" width="100%" />
 
